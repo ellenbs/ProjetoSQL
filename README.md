@@ -1,4 +1,4 @@
-# Projeto SQL | MegaDados
+# Projeto SQL | MegaDados 2022.2
 ## Integrantes:
 Ellen Shen
 
